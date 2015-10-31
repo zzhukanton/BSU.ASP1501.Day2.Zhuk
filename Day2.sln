@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{94791B21-2EFE-4422-A579-F3A39DE36AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.NUnitTests", "Task4.NUnitTests\Task4.NUnitTests.csproj", "{0EDDB0CB-228A-4801-A393-51D54B715472}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.Tests", "Task4.NUnitTests\Task4.Tests.csproj", "{0EDDB0CB-228A-4801-A393-51D54B715472}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.Tests", "Task3.Tests\Task3.Tests.csproj", "{D6B934FE-298E-4A8B-9C9C-568DEE29A6E5}"
 EndProject
